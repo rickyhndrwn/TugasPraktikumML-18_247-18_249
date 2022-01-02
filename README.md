@@ -10,3 +10,6 @@ Judul Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimot
 Kontributor:
 * Ricky Hendrawan - 201810370311247
 * Shofiyah - 201810370311249
+
+# Heroku apps
+Link Heroku: [link](https://prak-ml-modul-6-247-249.herokuapp.com/)
